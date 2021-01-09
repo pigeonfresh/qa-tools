@@ -10,7 +10,7 @@ QA tools is a package to provide developers with tools to assure the quality of 
 
 The first tool available is gridOverlay. With minor configuration it will be able to show a grid-column overlay like most designers tend to provide. The configuration can be past as custom props or as values. When the same naming convention is used the tool can be used without having to specify values.
 
-⚠️ gridOverlay does NOT provide any help with creating grids! It is only intended to be able to visual help you with checking alignments!
+⚠️ gridOverlay does NOT provide any help with creating grids! It is only intended to be able to visual help you with checking your layout!
 
 An example can be found on [codesandbox]('https://codesandbox.io/s/gridoverlay-example-73jo3' "Example of gridOverlay on codesandbox").
 
