@@ -27,9 +27,9 @@ const gridWrapper = (): HTMLElement => {
     gridProps.gridColumns || 'var(--grid-columns)'
   }, 1fr)`
   element.style.width = '100%'
-  element.style.maxWidth = gridProps.maxWidth || 'var(--component-max-width)'
-  element.style.paddingInlineStart = gridProps.padding || 'var(--component-padding)'
-  element.style.paddingInlineEnd = gridProps.padding || 'var(--component-padding)'
+  element.style.maxWidth = gridProps.maxWidth || 'var(--grid-max-width)'
+  element.style.paddingInlineStart = gridProps.padding || 'var(--grid-padding)'
+  element.style.paddingInlineEnd = gridProps.padding || 'var(--grid-padding)'
   element.style.opacity = '0.2'
   appendColumns(element)
   return element
