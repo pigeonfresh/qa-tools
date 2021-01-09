@@ -1,4 +1,16 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pigeonfresh/qa-tools.git"
+  },
+  "homepage": "https://github.com/pigeonfresh/qa-tools",
+  "keywords": [
+    "qa",
+    "qa-tools",
+    "grid-overlay",
+    "check",
+    "helpers"
+  ],
   "version": "0.1.0",
   "license": "MIT",
   "main": "dist/index.js",
