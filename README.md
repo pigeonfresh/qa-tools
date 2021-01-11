@@ -4,7 +4,7 @@
 
 QA tools is a package to provide developers with tools to assure the quality of their layouts. Simple install with yarn or NPM.
 
-`yarn add qa-tools` or `npm install qa-tools`
+`yarn add qa-tools` or `npm install -s qa-tools` 
 
 ##  gridOverlay
 
