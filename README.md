@@ -31,7 +31,7 @@ import { gridOverlay } from 'qa-tools';
 
 const gridOverlayProps = {
   maxWidth: '1920px',
-  padding: 'clamp(20px, calc(1.25rem + ((1vw - 3.75px) * 6.4725)), 120px);',
+  padding: 'clamp(20px, calc(1.25rem + ((1vw - 3.75px) * 6.4725)), 120px)',
   gridGap: '30px',
   gridColumns: 'var(--columns)',
   color: 'hotpink',
